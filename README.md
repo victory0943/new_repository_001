@@ -3,3 +3,4 @@
 创建一个新的分支n-ew --end
 继续创建一个分支，feach--end
 print（‘select * from xsb where name=“zhangsan”’）
+delete from pirbid_perbid;
